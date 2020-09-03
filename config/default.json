@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "vanik web developer",
+    "mongoUri" : "mongodb+srv://vanik:92702689@cluster0.9v3l8.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl" : "http://localhost:5000"
+}
